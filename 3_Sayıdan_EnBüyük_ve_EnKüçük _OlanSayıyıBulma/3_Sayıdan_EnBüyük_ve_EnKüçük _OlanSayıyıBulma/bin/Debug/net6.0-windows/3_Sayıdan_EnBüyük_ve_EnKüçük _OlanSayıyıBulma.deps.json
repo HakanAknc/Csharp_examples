@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3_Sayıdan_EnBüyük_ve_EnKüçük _OlanSayıyıBulma/1.0.0": {
+        "runtime": {
+          "3_Sayıdan_EnBüyük_ve_EnKüçük _OlanSayıyıBulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_Sayıdan_EnBüyük_ve_EnKüçük _OlanSayıyıBulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

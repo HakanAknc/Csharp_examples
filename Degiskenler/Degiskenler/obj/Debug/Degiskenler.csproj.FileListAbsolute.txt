@@ -1,0 +1,8 @@
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\Hakan Akıncı\source\repos\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb

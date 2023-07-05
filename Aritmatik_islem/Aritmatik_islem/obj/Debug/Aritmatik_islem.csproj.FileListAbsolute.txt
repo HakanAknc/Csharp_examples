@@ -1,0 +1,8 @@
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\bin\Debug\Aritmatik_islem.exe.config
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\bin\Debug\Aritmatik_islem.exe
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\bin\Debug\Aritmatik_islem.pdb
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\obj\Debug\Aritmatik_islem.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\obj\Debug\Aritmatik_islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\obj\Debug\Aritmatik_islem.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\obj\Debug\Aritmatik_islem.exe
+C:\Users\Hakan Akıncı\source\repos\Aritmatik_islem\Aritmatik_islem\obj\Debug\Aritmatik_islem.pdb

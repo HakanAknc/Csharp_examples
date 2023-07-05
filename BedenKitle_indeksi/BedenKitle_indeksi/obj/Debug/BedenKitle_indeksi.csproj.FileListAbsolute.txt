@@ -1,0 +1,8 @@
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\bin\Debug\BedenKitle_indeksi.exe.config
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\bin\Debug\BedenKitle_indeksi.exe
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\bin\Debug\BedenKitle_indeksi.pdb
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\obj\Debug\BedenKitle_indeksi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\obj\Debug\BedenKitle_indeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\obj\Debug\BedenKitle_indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\obj\Debug\BedenKitle_indeksi.exe
+C:\Users\Hakan Akıncı\source\repos\BedenKitle_indeksi\BedenKitle_indeksi\obj\Debug\BedenKitle_indeksi.pdb
